@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    text-shadow: 1px 1px 1px darkgrey, 0 0 15px darkcyan;
+}
+.left {
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid darkgrey;
+    box-shadow: 5px 5px darkcyan;
+    float: left;
+    width: 20%;
+    height: 450px;
+}
+
+.middle {
+    text-align: center;
+    padding-left: 10px;
+    border-radius: 10px;
+    border: 2px solid darkgrey;
+    box-shadow: 5px 5px darkcyan;
+    float: left;
+    width: 50%;
+    height: 300px;
+}
+
+.right {
+    text-align: center;
+    border-radius: 10px;
+    position: relative;
+    border: 2px solid darkgrey;
+    box-shadow: 5px 5px darkcyan;
+    float: right;
+    width: 28%;
+    height: 600px;
+}
